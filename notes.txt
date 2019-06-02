@@ -1,0 +1,4 @@
+1. Identify top 10 traits
+2. Give each trait a scale of 1 to 5 based on likeness / options in some cases 
+3. Emphasis should be on getting a personality gist of the individual 
+4. Design an architechure for the app to work. 
